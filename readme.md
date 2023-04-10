@@ -9,7 +9,8 @@ It checks all of steam ids that you included in array inside of a file.
 ## How to configure?
 1. Change API key inside of `config.json`.
 2. Insert your wordlist on `./files/wordlist.json`.
-3. Start your program with `node index.js`
+3. Update and install your nodejs packages with `npm install`.
+4. Start your program with `node index.js`
 
 ## Knowledge
 * `valid.json` and `invalid.json` is self-exp.
