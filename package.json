@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "async-request": "^1.2.0"
+  }
+}
